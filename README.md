@@ -9,5 +9,5 @@ People say that learning the definition and reading examples is the best way to 
 This app is using the Urban Dictionary's API provided by [RapidAPI.Com](https://rapidapi.com). That means you have to register on RapidApi to get an API key. And, place your API key in  inside **/lib/pages/search_page.dart**. Search for **X-RapidAPI-Key** and place your API key there.
 
 ## Screenshots
-![e2e1.PNG]({{site.baseurl}}/e2e1.PNG)
-![e2e2.PNG]({{site.baseurl}}/e2e2.PNG)
+![e2e1.PNG](https://github.com/nisadrahman/Flutter-Android-iOS-App-E2E/blob/master/e2e1.PNG?raw=true)
+![e2e2.PNG](https://github.com/nisadrahman/Flutter-Android-iOS-App-E2E/blob/master/e2e2.PNG?raw=true)
